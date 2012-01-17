@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ics">#33b5e5</color>
+    <color name="android">#A4C639</color>
+    <color name="ics_opaque">#8033b5e5</color>
+    <color name="np_background">#111111</color>
+    <color name="trans_black">#80000000</color>
+    <color name="trans">#00000000</color>
+
+</resources>

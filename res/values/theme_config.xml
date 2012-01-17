@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Theme properties -->
+    <string name="theme_title">Google Music</string>
+    <!-- http://developer.android.com/intl/de/guide/topics/resources/string-resource.html#FormattingAndStyling -->
+    <string name="theme_description">Play your music any time, anywhere.</string>
+
+    <!-- Now Playing TextViews -->
+    <!-- Current time -->
+    <color name="current_time_color">#FFFFFFFF</color>
+    <color name="current_time_color_paused">#33b5e5</color>
+    <!-- Remaining time -->
+    <color name="remaining_time_color">#FFFFFFFF</color>
+    <color name="remaining_time_color_paused">#FFFFFFFF</color>
+    <!-- Track name -->
+    <color name="track_name_color">#FFFFFFFF</color>
+    <!-- Track name landscape -->
+    <color name="track_color_land">#33b5e5</color>
+    <!-- Album name landscape -->
+    <color name="album_color_land">#33b5e5</color>
+    <!-- Artist name landscape -->
+    <color name="artist_color_land">#33b5e5</color>
+    <!-- Now Playing Extra Controls TextViews -->
+    <color name="shuffle_off">#FFFFFFFF</color>
+    <color name="shuffle_on">#33b5e5</color>
+    <color name="party_shuffle">#A4C639</color>
+    <color name="repeat_one">#A4C639</color>
+    <color name="repeat_all">#33b5e5</color>
+    <color name="repeat_off">#FFFFFFFF</color>
+    <color name="share_track">#FFFFFFFF</color>
+    <color name="eq">#FFFFFFFF</color>
+    <color name="shop">#FFFFFFFF</color>
+    <color name="ringtone">#FFFFFFFF</color>
+    <color name="delete">#FFFFFFFF</color>
+
+    <!-- Artist tab TextViews -->
+    <color name="artist_tab_artist_name_color_group">#FFFFFFFF</color>
+    <color name="artist_tab_artist_name_color_child">#FFFFFFFF</color>
+    <color name="artist_tab_number_of_albums_color">#FF999999</color>
+    <color name="artist_tab_number_of_songs_color">#FF999999</color>
+
+    <!-- Album tab TextViews -->
+    <color name="album_tab_artist_name_color">#FFFFFFFF</color>
+    <color name="album_tab_album_name_color">#FF999999</color>
+
+    <!-- Song tab TextViews -->
+    <color name="song_tab_track_name_color">#FFFFFFFF</color>
+    <color name="song_tab_album_name_color">#FF999999</color>
+    <color name="song_tab_duration_color">#FF999999</color>
+
+    <!-- Playlist tab TextViews -->
+    <color name="playlist_tab_playlist_name_color">#FFFFFFFF</color>
+
+    <!-- Small Now Playing Window TextViews -->
+    <color name="snp_artist_name_color">#FF999999</color>
+    <color name="snp_album_name_color">#FF999999</color>
+    <color name="snp_track_name_color">#FFFFFFFF</color>
+
+    <!-- 4x2 AppWidget -->
+    <color name="four_by_two_album_name">#33b5e5</color>
+    <color name="four_by_two_track_name">#33b5e5</color>
+    <color name="four_by_two_artist_name">#33b5e5</color>
+    
+    <!-- 4x1 AppWidget -->
+    <color name="four_by_one_track_name">#33b5e5</color>
+    <color name="four_by_one_artist_name">#33b5e5</color>
+    
+</resources>
